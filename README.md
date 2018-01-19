@@ -5,7 +5,7 @@ Type: UDP
 
 Stage: Beta
 
-Breif Overview:
+Brief Overview:
 
 	Allows users to send/receive messages between each other.
 	Each user has a personal username and Unique Identifier. 
