@@ -1,5 +1,5 @@
 # java-server
-Java Chat Server
+Java Chat Server (Winter 2017)
 
 Type: UDP
 
